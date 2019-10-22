@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: converteRede.Principal
+Class-Path: ./lib/hsqldb.jar
+Class-Path: ./lib/javax.mail.jar

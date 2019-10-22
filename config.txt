@@ -1,0 +1,3 @@
+Local_Origem=C:\REDECARD\RETORNO
+Destino_Novo_Arquivo=C:\ConverteRede\ArquivosConvertidos
+Destino_Processados=C:\ConverteRede\ArquivosProcessados
